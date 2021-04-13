@@ -1,1 +1,1 @@
-# lucky-project-25
+# CP-2
